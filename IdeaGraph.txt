@@ -12,3 +12,6 @@ Top 10 Industry - optional
 how many offers has salary published - hard code
 
 Comparación entre roles - skills
+
+
+Side BAr - Role, Industry, Website
