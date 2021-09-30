@@ -1,0 +1,14 @@
+Data field Job Market(FR)-Data Viz
+Welcome to the jungle, Indeed
+
+
+Top 10 Companies
+Top 10 Skills
+Locations
+Contratos 
+Wordcloud - Description
+Top 10 Industry - optional
+
+how many offers has salary published - hard code
+
+Comparación entre roles - skills
